@@ -1,0 +1,12 @@
+unsloth
+xformers
+trl
+peft
+accelerate
+bitsandbytes
+sec_api
+langchain
+langchain-community
+sentence-transformers
+faiss-gpu
+pdfplumber

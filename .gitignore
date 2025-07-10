@@ -1,0 +1,8 @@
+.env
+*.pdf
+*.csv
+*.zip
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+drive/
